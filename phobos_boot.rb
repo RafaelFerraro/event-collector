@@ -1,5 +1,6 @@
 # Use this file to load your code
-require_relative 'consumer'
+require './src/consumer'
+
 puts <<~ART
   ______ _           _
   | ___ \\ |         | |
