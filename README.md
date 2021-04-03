@@ -37,6 +37,10 @@ Thanks for [Apache Kafka Quick Start page](https://kafka.apache.org/quickstart).
 That's all. Then we can start to consume those sent messages. We just need to start the phobos and VOILA! Those sent messages will be consumed by our listener:
 
 ```
+$ phobos start
+```
+
+```
 --------------- A new message arrived! --------------------
 Message: Hello!
 -------------- Message consumed... ------------------------
